@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+#header-container{
+
+height:8vh;
+width:85vw;
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-left: 45%;
+}
+#header-contact-font{
+
+}
